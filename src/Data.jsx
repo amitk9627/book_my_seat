@@ -8,26 +8,26 @@ export const uData =
                     position: 0,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
+                    
                 },
                 {
                     position: 1,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
+                    
                 },
                 {
                     position: 2,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
+                   
                 },
 
                 {
                     position: 3,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
+                   
                 }
                 ,
                 {
@@ -62,7 +62,7 @@ export const uData =
                     position: 8,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
+                   
                 }
                 ,
                 {
@@ -70,13 +70,7 @@ export const uData =
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-            ]
-        }, {
-
-            row: 1,
-            lebels: "B",
-            seats: [
+                },
                 {
                     position: 10,
                     status: 'available',
@@ -89,59 +83,102 @@ export const uData =
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
                     position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
+            ]
+        },
+         {
+
+            row: 1,
+            lebels: "B",
+            seats: [
+                {
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
                 ,
                 {
-                    position: 13,
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 14,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 15,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 16,
+                    position: 7,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 17,
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 18,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 19,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -153,70 +190,87 @@ export const uData =
             lebels: "C",
             seats: [
                 {
-                    position: 20,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 21,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 22,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 23,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 24,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 25,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 26,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 27,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 28,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 29,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -228,70 +282,87 @@ export const uData =
             lebels: "D",
             seats: [
                 {
-                    position: 30,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 31,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 32,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 33,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 34,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 35,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 36,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 37,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 38,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 39,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -304,70 +375,87 @@ export const uData =
             lebels: "E",
             seats: [
                 {
-                    position: 40,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 41,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 42,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 43,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 44,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 45,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 46,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 47,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 48,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 49,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -379,70 +467,87 @@ export const uData =
             lebels: "F",
             seats: [
                 {
-                    position: 50,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 51,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 52,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 53,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 54,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 55,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 56,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 57,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 58,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 59,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -454,70 +559,87 @@ export const uData =
             lebels: "G",
             seats: [
                 {
-                    position: 60,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 61,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 62,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 63,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 64,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 65,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 66,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 67,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 68,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 69,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -528,72 +650,89 @@ export const uData =
         {
             row: 7,
             lebels: "H",
-            seats: [
+            seats:[
                 {
-                    position: 70,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 71,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 72,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 73,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 74,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 75,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 76,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 77,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 78,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 79,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -606,70 +745,87 @@ export const uData =
             lebels: "I",
             seats: [
                 {
-                    position: 80,
+                    position: 0,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 1,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 2,
+                    status: 'available',
+                    isSelected: false,
+                   
+                },
+
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 81,
+                    position: 5,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 82,
+                    position: 6,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 83,
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
                 }
                 ,
                 {
-                    position: 84,
+                    position: 11,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
-                }
-                ,
+                },
                 {
-                    position: 85,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 86,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 87,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 88,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 89,
+                    position: 12,
                     status: 'available',
                     isSelected: false,
                     type: 'premium'
@@ -682,76 +838,91 @@ export const uData =
             lebels: "J",
             seats: [
                 {
-                    position: 90,
+                    position: 0,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
-                }
-                ,
+                    
+                },
                 {
-                    position: 91,
+                    position: 1,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
-                }
-                ,
+                    
+                },
                 {
-                    position: 92,
+                    position: 2,
                     status: 'available',
                     isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 93,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 94,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 95,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 96,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 97,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 98,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
-                ,
-                {
-                    position: 99,
-                    status: 'available',
-                    isSelected: false,
-                    type: 'premium'
-                }
+                   
+                },
 
-
+                {
+                    position: 3,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 4,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                }
+                ,
+                {
+                    position: 5,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                }
+                ,
+                {
+                    position: 6,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                }
+                ,
+                {
+                    position: 7,
+                    status: 'available',
+                    isSelected: false,
+                    
+                }
+                ,
+                {
+                    position: 8,
+                    status: 'available',
+                    isSelected: false,
+                   
+                }
+                ,
+                {
+                    position: 9,
+                    status: 'available',
+                    isSelected: false,
+                    
+                },
+                {
+                    position: 10,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                }
+                ,
+                {
+                    position: 11,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                },
+                {
+                    position: 12,
+                    status: 'available',
+                    isSelected: false,
+                    type: 'premium'
+                }
             ]
         }
     ]
